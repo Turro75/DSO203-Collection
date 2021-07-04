@@ -1,8 +1,8 @@
-the PAWN4 is the release 0.12.
+the PAWN012_X is the release 0.12.
 
-- uses Alterbios 0.5  (flash ALT_F164)
+- it uses Alterbios 0.5  (flash ALT_F164)
 
-- added read_SN and read_flash
+- adds read_SN and read_flash
 
 
 go to the official quadpawn jpa repo and download the latest release, I added also the getlicense.amx which reads the current serial number and license code from the flash. 
