@@ -1,0 +1,5 @@
+#DSO203 8mb flash
+#idVendor=0483, idProduct=5720
+#dfu disk 524Kb
+#DSO203 8mb flash
+ATTRS{idVendor}=="0483", ATTRS{idProduct}=="5720", MODE="666", SYMLINK+="dso203"
